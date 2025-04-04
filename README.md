@@ -1,5 +1,6 @@
 # OrbitEstimator_fromUV
-[2024] For review in A&amp;C
+[2024] Article:
+https://www.sciencedirect.com/science/article/abs/pii/S2213133724000702
 
 1) To test orbit construction for initial 10 tests and EHI, change lines 115-116 in file 'UVplaneGuessor':
    
